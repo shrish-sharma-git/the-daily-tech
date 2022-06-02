@@ -1,0 +1,18 @@
+/* Pallete */
+/*  #ef9273 
+    #fef9f8 
+    #0d0d0d
+    #FFE5B4 */
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fef9f8;
+}
+
+.ql-editor {
+    min-height: 300px;
+}
